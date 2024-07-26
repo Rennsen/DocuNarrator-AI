@@ -1,9 +1,9 @@
-# David Attenborough narrates your life. 
+## DocuNarrator: Narrate Your Life
 
-https://twitter.com/charliebholtz/status/1724815159590293764
+Inspired by a fun and entertaining Twitter post, I created DocuNarrator. It's not perfect, but I hope you enjoy it! Check out more of my work [here](https://ren-s-portfolio.web.app).
 
 ## Want to make your own AI app?
-Check out [Replicate](https://replicate.com). We make it easy to run machine learning models with an API.
+Check out [Replicate](https://replicate.com). They make it easy to run machine learning models with an API.
 
 ## Setup
 
